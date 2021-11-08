@@ -23,3 +23,4 @@ In order to use this app, The app is a note maker app it can be executed on the 
 ## Test
 The following is needed to run the test: Clone repository.
     
+    ![](images/Take-notes.png)

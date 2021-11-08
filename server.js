@@ -6,8 +6,6 @@ const PORT = process.env.PORT || 3002;
 
 const data = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
 
-
-
 app.use(express.static('public'));
 
 // parse incoming string or array data
