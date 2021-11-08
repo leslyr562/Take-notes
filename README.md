@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License--informational)
+
 
 # Take-notes
 https://github.com/leslyr562/take-notes
@@ -23,4 +23,4 @@ In order to use this app, The app is a note maker app it can be executed on the 
 ## Test
 The following is needed to run the test: Clone repository.
     
-    ![](images/Take-notes.png)
+![](images/Take-notes.png)
